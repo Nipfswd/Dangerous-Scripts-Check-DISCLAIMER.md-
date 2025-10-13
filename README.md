@@ -10,3 +10,5 @@ By proceeding (cloning, building, running, or distributing), you confirm that:
 - You will comply with all applicable laws.
 
 If you do not accept these conditions, stop now and do not use this repository.
+
+## ALWAYS EXPECT DATALOSS WHEN USING THESE SCRIPTS
